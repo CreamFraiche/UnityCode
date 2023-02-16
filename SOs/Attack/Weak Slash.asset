@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e697098d0c25ea469595f8ca9dc32fc, type: 3}
+  m_Name: Weak Slash
+  m_EditorClassIdentifier: 
+  title: Weak Slash
+  dmg: 3
+  curKills: 0
+  animationStyle: 4
+  weaponStyle: 1
+  speed: 1.2
+  recoveryTime: 0.8
+  forceBack: 0
+  forceUp: 0
+  fx: {fileID: 0}
+  icon: {fileID: 21300000, guid: 07d31c5abc148104590c1a691bef43e2, type: 3}

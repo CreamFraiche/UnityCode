@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e697098d0c25ea469595f8ca9dc32fc, type: 3}
+  m_Name: Kunai Strike
+  m_EditorClassIdentifier: 
+  title: Kunai Strike
+  dmg: 5
+  curKills: 0
+  animationStyle: 2
+  weaponStyle: 0
+  speed: 1.5
+  recoveryTime: 0.4
+  forceBack: 0
+  forceUp: 0
+  fx: {fileID: 279594703399971520, guid: 89cfc0b194669b840b52103ce02860d1, type: 3}
+  icon: {fileID: 21300000, guid: be4eb4f60363bd1458594957c013653d, type: 3}
